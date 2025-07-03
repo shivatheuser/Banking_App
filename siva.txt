@@ -1,4 +1,4 @@
-name: siva.
-age: 25.
-sex: male.
+name: siva
+age: 25
+sex: male
 
